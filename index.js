@@ -1,3 +1,4 @@
+require('core-js')
 
 const pkg = require('./lib/pkg')
 const express = require('express')
