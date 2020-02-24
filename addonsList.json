@@ -1,0 +1,304 @@
+[
+	{
+		"name": "Awesome Everything",
+		"logo": "https://cdn.imgbin.com/25/9/11/imgbin-everything-is-awesome-logo-the-lego-movie-brand-everything-is-awesome-47XMADTLwVjGFND7W1uErJr5a.jpg",
+		"description": "Tons of free movies and TV episode streams! This add-on may take up to 8 seconds to answer with streams.",
+		"types": ["Movies", "Series"],
+		"repo": "PurposeUnknown42/awesome-everything"
+	},
+	{
+		"name": "Jackett",
+		"logo": "https://static1.squarespace.com/static/55c17e7ae4b08ccd27be814e/t/599b81c32994ca8ff6c1cd37/1508813048508/Jackett-logo-2.jpg",
+		"description": "Stremio Add-on to get torrent results from Jackett",
+		"types": ["Movies", "Series"],
+		"repo": "BoredLama/stremio-jackett-local"
+	},
+	{
+		"name": "Open Directories - Videos",
+		"logo": "https://pms-images.now.sh/open-directories-videos.png",
+		"description": "Stremio Add-on to get streaming results from Open Directories",
+		"types": ["Movies", "Series"],
+		"repo": "BoredLama/stremio-open-directories-local"
+	},
+	{
+		"name": "CDN Videos",
+		"logo": "https://pms-images.now.sh/cdn-videos.png",
+		"description": "Search for movies, series and anime from various CDN providers",
+		"types": ["Movies", "Series", "Anime"],
+		"repo": "TheBeastLT/stremio-cdn-videos"
+	},
+	{
+		"name": "Twist.moe Anime",
+		"logo": "https://pbs.twimg.com/profile_images/1040274899854606338/f-VmanYZ_400x400.jpg",
+		"description": "Add-on to show Anime from the Twist.moe website",
+		"types": ["Anime"],
+		"repo": "henryhomes/stremio-twistmoe"
+	},
+	{
+		"name": "Anime from AnimeFever",
+		"logo": "https://pms-images.now.sh/anime-fever.jpg",
+		"description": "Anime from AnimeFever",
+		"types": ["Anime"],
+		"repo": "henryhomes/stremio-animefever"
+	},
+	{
+		"name": "Anime from AnimePahe",
+		"logo": "https://marcelinethinks.files.wordpress.com/2015/11/anime-logo-square.png",
+		"description": "Anime from AnimeFever",
+		"types": ["Anime"],
+		"repo": "henryhomes/stremio-animepahe-local"
+	},
+	{
+		"name": "Open Directories - Music",
+		"logo": "https://secure.webtoolhub.com/static/resources/logos/set1/bc185e1e.jpg",
+		"description": "Stremio Add-on to get music streaming results from Open Directories",
+		"types": ["Music"],
+		"repo": "BoredLama/stremio-open-music-local"
+	},
+	{
+		"name": "USA IPTV",
+		"logo": "https://ustvgo.now.sh/addon-logo.png",
+		"description": "Free IPTV from USATV",
+		"types": ["IPTV"],
+		"repo": "machaboo/some-silly-repo"
+	},
+	{
+		"name": "123TV",
+		"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3i1zBYl9KWtrGK9sOM_4L3AO7QCJ5ooz1vxWxx9wMzVpFJhowEw",
+		"description": "Free IPTV from 123TV",
+		"types": ["IPTV"],
+		"repo": "danamag/stremio-123tv-local"
+	},
+	{
+		"name": "Fluxus IPTV",
+		"logo": "https://3.bp.blogspot.com/-H29TnFg5qi8/XJRl9LkCOPI/AAAAAAAAERM/NMz9wJR8iksFemvDu1kGWb9soX41HopxgCLcBGAs/s1600/NewFTV-IPTV-C.png",
+		"description": "Thousands of free IPTV channels from Fluxus. Includes: Main IPTV, CCTV and Faith channels.",
+		"types": ["IPTV"],
+		"repo": "brainbug73/stremio-fluxus-iptv"
+	},
+	{
+		"name": "LodgeTV",
+		"logo": "https://3.bp.blogspot.com/-6Ql8J95fTKU/WrFQlFcpq0I/AAAAAAAAC5Q/sLHDj_89CMILmosQ1k1SyX_viu9d1L2VgCLcBGAs/s320/LodgeTV_Logo-Square.png",
+		"description": "Thousands of free IPTV channels from LodgeTV. Includes: English, Spanish and Arabic channels.",
+		"types": ["IPTV"],
+		"repo": "brainbug73/stremio-lodgetv"
+	},
+	{
+		"name": "Stratus Television",
+		"logo": "https://4.bp.blogspot.com/-oQNkqrqPQ98/W1jECk8g7YI/AAAAAAAADjU/FxPmjwup0QI6_2ni2icom0WpHSpx2gt2gCLcBGAs/s1600/Stratus_TV_Playlist.png",
+		"description": "Thousands of free IPTV channels from Stratus TV. Includes: USA, Canada, UK, Ireland, Spain, Latino, Mexico, Argentina, Chile, Colombia, Brazil, Portugal, Arab, India and Pakistan channels.",
+		"types": ["IPTV"],
+		"repo": "brainbug73/stremio-stratustv"
+	},
+	{
+		"name": "Worldwide Free IPTV",
+		"logo": "https://1.bp.blogspot.com/-rpY21C2cVVc/XBDa1uQ3cHI/AAAAAAAAAQU/K55jh053eHQNhj75HokXh9WJfmDchcHVwCLcBGAs/s1600/FREE%2BWORLD%2BBIG%2BMIX%2B2000%252B%2BLIVE%2BHD%2BIPTV%2BPLAYLIST%2BM3U%2BLINKSKODIUPDATE.jpg",
+		"description": "6000+ free IPTV channels from all over the world.",
+		"types": ["IPTV"],
+		"repo": "brainbug73/stremio-worldwide-iptv"
+	},
+	{
+		"name": "Nitro IPTV",
+		"logo": "https://mydingtv.com/wp-content/uploads/2019/02/Nitrous-TV.jpg",
+		"description": "IPTV Service - Requires Subscription",
+		"types": ["IPTV"],
+		"repo": "danamag/stremio-nitro-local"
+	},
+	{
+		"name": "Beast IPTV",
+		"logo": "https://thebeastip.tv/wp-content/uploads/2018/05/cropped-beast.png",
+		"description": "IPTV Service - Requires Subscription",
+		"types": ["IPTV"],
+		"repo": "danamag/stremio-beast-local"
+	},
+	{
+		"name": "Twisted IPTV",
+		"logo": "https://s3-us-west-2.amazonaws.com/usedphotosna/81320118_614.jpg",
+		"description": "IPTV Service - Requires Subscription",
+		"types": ["IPTV"],
+		"repo": "danamag/stremio-twisted-local"
+	},
+	{
+		"name": "IPTV Web Player",
+		"logo": "http://www.mdcgate.com/apps/upload/images/tvos_iptv/IPTV-tvOS-icon.jpg",
+		"description": "Creates catalogs or channels based on IPTV Web Portals. Connects to the Web Portal used by many IPTV Providers (Nitro, Beast, Twisted and many more)",
+		"types": ["IPTV"],
+		"repo": "danamag/stremio-iptv-webplayer-local"
+	},
+	{
+		"name": "M3U Playlists",
+		"logo": "https://enjoy.zendesk.com/hc/article_attachments/360004422752/2149-m3u-image.jpg",
+		"description": "Creates catalogs or channels based on M3U Playlists. Add M3U playlists to Stremio by URL, supports a maximum of 5 playlists and custom names",
+		"types": ["IPTV"],
+		"repo": "danamag/stremio-m3u-local"
+	},
+	{
+		"name": "Plex Client",
+		"logo": "https://assets.pcmag.com/media/images/517012-plex-logo.png?width=333&height=245",
+		"description": "Plex client to view your Plex media servers in Stremio.",
+		"types": ["Media Server Clients"],
+		"repo": "OwnGod/stremio-plex-client"
+	},
+	{
+		"name": "Emby Client",
+		"logo": "https://emby.media/community/public/style_images/master/meta_image1.png",
+		"description": "Emby client to view your Emby Connect media servers in Stremio.",
+		"types": ["Media Server Clients"],
+		"repo": "OwnGod/stremio-emby-client"
+	},
+	{
+		"name": "MP3 Clan",
+		"logo": "https://www.macupdate.com/images/icons256/52415.png",
+		"description": "Search and play music from MP3 Clan / MP3 Guild websites",
+		"types": ["Music"],
+		"repo": "JerryTheMole/stremio-mp3clan-local"
+	},
+	{
+		"name": "TuneIn",
+		"logo": "https://www.underconsideration.com/brandnew/archives/tunein_2017_logo_2.png",
+		"description": "Radios from TuneIn",
+		"types": ["Music"],
+		"repo": "JerryTheMole/stremio-tunein-local"
+	},
+	{
+		"name": "Soundcloud",
+		"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Antu_soundcloud.svg/150px-Antu_soundcloud.svg.png",
+		"description": "Tracks from Soundcloud",
+		"types": ["Music"],
+		"repo": "JerryTheMole/stremio-soundcloud-local"
+	},
+	{
+		"name": "Mixcloud",
+		"logo": "https://www.mixcloud.com/media/images/www/global/mixcloud-og.png",
+		"description": "Tracks from Mixcloud",
+		"types": ["Music"],
+		"repo": "JerryTheMole/stremio-mixcloud-local"
+	},
+	{
+		"name": "Fluxus Radios",
+		"logo": "https://3.bp.blogspot.com/-FpstPKST3TY/XJRmE7BmF9I/AAAAAAAAERY/ijxe44PpW44-poO8lJtn6DDosT8NTdF9ACLcBGAs/s1600/NewFTV-Radio-C.png",
+		"description": "More than 1000 free radio channels from Fluxus.",
+		"types": ["Music"],
+		"repo": "brainbug73/stremio-fluxus-radios"
+	},
+	{
+		"name": "Crunchyroll",
+		"logo": "https://fontmeme.com/images/Crunchyrolllogo.png",
+		"description": "Anime from Crunchyroll - Subcription recommended",
+		"types": ["Anime"],
+		"repo": "BoredLama/stremio-crunchyroll-local"
+	},
+	{
+		"name": "Funimation",
+		"logo": "https://www.underconsideration.com/brandnew/archives/funimation_logo.png",
+		"description": "Anime from Funimation - Subcription needed",
+		"types": ["Anime"],
+		"repo": "BoredLama/stremio-funimation-local"
+	},
+	{
+		"name": "HIDIVE",
+		"logo": "https://cdn.myanimelist.net/s/common/uploaded_files/1497990382-d769797f8b53cf7e0a828d46c1e5b4aa.jpeg",
+		"description": "Anime from HIDIVE - Subcription needed",
+		"types": ["Anime"],
+		"repo": "BoredLama/stremio-hidive-local"
+	},
+	{
+		"name": "Drama Very",
+		"logo": "https://www.viewasian.tv/themes/ViewAsian/images/logo.png",
+		"description": "Free Korean, Chinese, HK, Thailand movies and series.",
+		"types": ["Asian Drama"],
+		"repo": "booblyboo/stremio-dramavery-local"
+	},
+	{
+		"name": "Hentai from hanime",
+		"logo": "https://img.android-apk.org/imgs/3/9/6/3963a4a6ae1e14f9824fc89f57bc5a17.png",
+		"description": "Hentai (anime porn) streams from hanime. This add-on works better in Stremio desktop app then the web version.",
+		"types": ["Anime", "Porn"],
+		"repo": "henryhomes/stremio-hanime-local"
+	},
+	{
+		"name": "PornHub",
+		"logo": "https://1000logos.net/wp-content/uploads/2017/12/Pornhub-symbol.jpg",
+		"description": "Porn videos from PornHub",
+		"types": ["Porn"],
+		"repo": "JerryTheMole/stremio-pornhub-local"
+	},
+	{
+		"name": "RedTube",
+		"logo": "https://upload.wikimedia.org/wikipedia/commons/1/15/Redtube_banner.png",
+		"description": "Porn videos from RedTube",
+		"types": ["Porn"],
+		"repo": "JerryTheMole/stremio-redtube-local"
+	},
+	{
+		"name": "Tube8",
+		"logo": "https://images-na.ssl-images-amazon.com/images/I/41TjznvkuzL.jpg",
+		"description": "Porn videos from Tube8",
+		"types": ["Porn"],
+		"repo": "JerryTheMole/stremio-tube8-local"
+	},
+	{
+		"name": "YouPorn",
+		"logo": "https://blog.youporn.com/wp-content/uploads/2012/02/youporn-logo.png",
+		"description": "Porn videos from YouPorn",
+		"types": ["Porn"],
+		"repo": "JerryTheMole/stremio-youporn-local"
+	},
+	{
+		"name": "SpankWire",
+		"logo": "https://pbs.twimg.com/profile_images/665600820419952640/POpDwoka_400x400.png",
+		"description": "Porn videos from SpankWire",
+		"types": ["Porn"],
+		"repo": "JerryTheMole/stremio-spankwire-local"
+	},
+	{
+		"name": "Fluxus Lust",
+		"logo": "https://3.bp.blogspot.com/-iEXS5Rp0LUM/WZ4plyRMU6I/AAAAAAAAA5Q/c4exNnCRyAsZ3JNDCIv6PCDAs3NzDDy1gCLcBGAs/s320/FluxusLustH.png",
+		"description": "IPTV & VOD streams for Porn from Fluxus Lust. This content is intended for a mature audience.",
+		"types": ["Porn"],
+		"repo": "brainbug73/stremio-fluxus-lust"
+	},
+	{
+		"name": "Zooqle+",
+		"logo": "https://www.bittorrentvpn.com/wp-content/uploads/2017/11/zooqle-torrents.png",
+		"description": "Watch movies and series indexed by Zooqle from RARBG, KAT, YTS, MegaTorrents and other torrent trackers",
+		"types": ["Movies", "Series"],
+		"repo": "booblyboo/stremio-zooqle-local"
+	},
+	{
+		"name": "Discord Rich Presence",
+		"logo": "https://pms-images.now.sh/discord.png",
+		"description": "Show the movie or series you're watching in Discord. This add-on requires you to have the Discord desktop app installed and running.",
+		"types": ["Movies", "Series"],
+		"repo": "Sleeyax/stremio-discord",
+		"requires": "1.1.9"
+	},
+	{
+		"name": "Fluxus Cinema",
+		"logo": "https://3.bp.blogspot.com/-H29TnFg5qi8/XJRl9LkCOPI/AAAAAAAAERM/NMz9wJR8iksFemvDu1kGWb9soX41HopxgCLcBGAs/s1600/NewFTV-IPTV-C.png",
+		"description": "Movies from Fluxus Cinema. Includes: English, German, French, Italian, Spanish, Portuguese, Japanese and Arabic movies.",
+		"types": ["Movies"],
+		"repo": "brainbug73/stremio-fluxus-cinema"
+	},
+	{
+		"name": "IMDB Tag",
+		"logo": "https://m.media-amazon.com/images/G/01/IMDb/BG_icon_iOS._SY230_SX307_AL_.png",
+		"description": "Add-on to create a catalog from a IMDB tag url.",
+		"types": ["Catalog"],
+		"repo": "booblyboo/stremio-imdb-tag-local"
+	},
+	{
+		"name": "IMDB List",
+		"logo": "https://m.media-amazon.com/images/G/01/IMDb/BG_icon_iOS._SY230_SX307_AL_.png",
+		"description": "Add-on to create a catalog from a IMDB list url.",
+		"types": ["Catalog"],
+		"repo": "booblyboo/stremio-imdb-list-local"
+	},
+	{
+		"name": "IMDB Watchlist",
+		"logo": "https://m.media-amazon.com/images/G/01/IMDb/BG_icon_iOS._SY230_SX307_AL_.png",
+		"description": "Add-on to create a catalog from a IMDB watchlist url.",
+		"types": ["Catalog"],
+		"repo": "booblyboo/stremio-imdb-watchlist-local"
+	}
+]
